@@ -3,7 +3,7 @@
 
 #########################################################
 # Source https://mailinabox.email/ https://github.com/mail-in-a-box/mailinabox
-# Updated by cryptopool.builders for crypto use...
+# Updated by yonnn for crypto use...
 # This script is intended to be run like this:
 #
 #   curl https://raw.githubusercontent.com/yonnn/Multi-Pool-Installer/master/bootstrap.sh | bash
