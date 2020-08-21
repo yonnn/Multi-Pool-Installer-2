@@ -37,7 +37,7 @@ Installation:
 Requires a fresh Ubuntu 16.04 or Ubuntu 18.04 installation.
 
 ```
-curl https://raw.githubusercontent.com/cryptopool-builders/Multi-Pool-Installer/master/bootstrap.sh | bash
+curl https://raw.githubusercontent.com/yonnn/Multi-Pool-Installer/master/bootstrap.sh | bash
 ```
 
 Update:
